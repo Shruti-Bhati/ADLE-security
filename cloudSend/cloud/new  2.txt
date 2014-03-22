@@ -1,0 +1,8 @@
+Cloud Computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.<br />
+The architecture of cloud computing consists of numerous components and their subcomponents.The major componnts are :- <br />1. FRONT END,which allow the client to access the various services provided by the cloud.<br />
+2. BACK-END("cloud section"),provides storage and instances of server.
+<br />
+<br />
+The cloud provides its user with the following service models :-<br />1. Software as a Service (Saas) :The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure.<br />
+2. Platform as a Service (PaaS). The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider. <br />
+3. Infrastructure as a Service (IaaS). The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software

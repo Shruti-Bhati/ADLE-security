@@ -1,0 +1,19 @@
+
+Time taken 1.7685580253601 seconds filesize 11 KB
+Time taken 1.7654621601105 seconds filesize 30 KB
+Time taken 1.9673779010773 seconds filesize 48 KB
+Time taken 1.8188359737396 seconds filesize 306 KB
+Time taken 2.0264899730682 seconds filesize 25 KB
+Time taken 2.2134399414062 seconds filesize 11 KB
+Time taken 1.987851858139 seconds filesize 309 KB
+Time taken 1.7394239902496 seconds filesize 566 KB
+Time taken 1.5250971317291 seconds filesize 566 KB
+Time taken 1.6593239307404 seconds filesize 11033 KB
+Time taken 1.6829390525818 seconds filesize 63679 KB
+Time taken 1.6794431209564 seconds filesize 20 KB
+Time taken 1.8124330043793 seconds filesize 82239 KB
+Time taken 5.8849108219147 seconds filesize 880876 KB
+Time taken 1.7660920619965 seconds filesize 4777 KB
+Time taken 1.5037069320679 seconds filesize 1216 KB
+Time taken 1.4520580768585 seconds filesize 30 KB
+Time taken 1.6410639286041 seconds filesize 11033 KB

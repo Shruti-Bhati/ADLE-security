@@ -1,0 +1,10 @@
+
+Time taken 0.007935 seconds,filesize 11 KB
+Time taken 0.01433 seconds,filesize 30 KB
+Time taken 0.021543 seconds,filesize 30 KB
+Time taken 0.020207 seconds,filesize 48 KB
+Time taken 0.00987 seconds,filesize 25 KB
+Time taken 0.008803 seconds,filesize 63679 KB
+Time taken 0.008484 seconds,filesize 20 KB
+Time taken 0.012811 seconds,filesize 82239 KB
+Time taken 0.028938 seconds,filesize 880876 KB

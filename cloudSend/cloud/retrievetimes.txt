@@ -1,0 +1,17 @@
+
+Time taken 0.026004 seconds,filesize 25 KB
+Time taken 0.021277 seconds,filesize 25 KB
+Time taken 0.021768 seconds,filesize 25 KB
+Time taken 0.013458 seconds,filesize 30 KB
+Time taken 0.02067 seconds,filesize  KB
+Time taken 0.013819 seconds,filesize  KB
+Time taken 0.011858 seconds,filesize  KB
+Time taken 0.015884 seconds,filesize  KB
+Time taken 0.011274 seconds,filesize  KB
+Time taken 0.01124 seconds,filesize  KB
+Time taken 0.011487 seconds,filesize  KB
+Time taken 0.011853 seconds,filesize  KB
+Time taken -0.967519 seconds,filesize 63679 KB
+Time taken 0.025857 seconds,filesize 63679 KB
+Time taken 0.016863 seconds,filesize 21233 KB
+Time taken 0.010465 seconds,filesize 10 KB

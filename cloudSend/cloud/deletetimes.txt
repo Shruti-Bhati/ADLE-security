@@ -1,0 +1,9 @@
+
+Time taken 0.083658 seconds filesize  KB
+Time taken 0.129468 seconds filesize  KB
+Time taken 0.083228 seconds filesize  KB
+Time taken 0.124486 seconds filesize  KB
+Time taken 0.115699 seconds filesize  KB
+Time taken -0.886021 seconds filesize  KB
+Time taken -0.859659 seconds filesize  KB
+Time taken 0.159069 seconds filesize  KB
